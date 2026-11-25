@@ -4,8 +4,8 @@ A clean, production-ready hospital dashboard for managing patient admissions, wa
 
 ## Live Demo
 
-- **Frontend (Vercel):** `<ADD_VERCEL_URL_HERE>`
-- **Backend API (Render):** `<ADD_RENDER_URL_HERE>`
+- **Frontend (Vercel):** `https://patient-admission-app-three.vercel.app`
+- **Backend API (Render):** `https://patient-admission-app-l7o7.onrender.com likho.`
 
 ---
 
@@ -192,12 +192,8 @@ The frontend will run at `http://localhost:5173`.
 
 ## Screenshots
 
-### Desktop View (`> 1024px`)
-`![Desktop View Placeholder](./docs/screenshots/desktop.png)`
-
-### Tablet View (`640px - 1024px`)
-`![Tablet View Placeholder](./docs/screenshots/tablet.png)`
-
-### Mobile View (`< 640px`)
-`![Mobile View Placeholder](./docs/screenshots/mobile.png)`
-
+![Desktop View](./docs/screenshots/desktop.png)
+![Tablet View](./docs/screenshots/tablet.png)
+![Mobile View](./docs/screenshots/mobile.png)
+![Form View](./docs/ScreenShots/form.png)
+![Delete view](./docs/ScreenShots/delete.png)
