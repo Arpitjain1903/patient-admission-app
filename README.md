@@ -192,7 +192,7 @@ The frontend will run at `http://localhost:5173`.
 
 ## Screenshots
 
-![Desktop View](./docs/Screenshot/Desktop.png)
+![Desktop View](./docs/ScreenShots/Desktop.png)
 
 ![Tablet View](./docs/ScreenShots/tablet.png)
 
