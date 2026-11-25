@@ -1,0 +1,31 @@
+:root {
+  /* Required Hospital Dashboard Color Palette */
+  --bg: #E5E8CE;
+  --primary: #789575;
+  --surface: #FFF0DC;
+  --primary-dark: #5C7A59;
+  --text: #2F3E2E;
+  --danger: #B5483A;
+  --muted: #6B7B6A;
+  --white: #FFFFFF;
+
+  /* Supporting semantic tokens derived from palette */
+  --border: rgba(47, 62, 46, 0.14);
+  --shadow-sm: 0 2px 6px rgba(47, 62, 46, 0.08);
+  --shadow-md: 0 8px 24px rgba(47, 62, 46, 0.14);
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --focus-ring: 0 0 0 3px rgba(92, 122, 89, 0.35);
+  --tap-target: 44px;
+
+  /* Typography */
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    sans-serif;
+
+  /* Breakpoints (reference for media queries in global.css):
+     - Mobile: < 640px
+     - Tablet: 640px - 1024px
+     - Desktop: > 1024px
+  */
+}
+
